@@ -52,3 +52,5 @@ Desarrollar un videojuego para reforzar los temas de matemáticas que más falen
 - Ingresar una cuenta de Roblox
 - Descargar Roblox
 - Buscar Puertas Matematicas
+  <img width="1919" height="322" alt="image" src="https://github.com/user-attachments/assets/a157006c-bfd2-4fb6-8793-50eb46fe03f6" />
+
