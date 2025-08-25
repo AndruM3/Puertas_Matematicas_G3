@@ -24,11 +24,15 @@ Desarrollar un videojuego para reforzar los temas de matemáticas que más falen
 
 | # Cuarto | Imagen |
 |--------------------|------------------|
-| 1 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/ae2262e9-a0d6-479f-b772-a40fd0787519" />| |
+| 1 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1b0d8135-1189-45f4-92c1-2552eb9e3ddc" />| |
 | 2 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2a52dfd0-4667-44e6-b266-19c17ca47748" />| |
-| 3 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d1237291-bd80-4fab-9071-181a94bdcd66" />| |
-| 4 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/473463b7-f930-414f-a58e-319b72c7ddb3" />| |
-| 5 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d032d399-1ef9-46a9-8b65-cacd681af424" />| |
+| 3 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/277222a1-7fa7-40ee-9e00-bfc8877e3dca" />| |
+| 4 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/e66cd5c7-7f9e-4260-a072-1a673b2ed19e" />| |
+| 5 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6c8986ae-1c4c-4f6a-9a8f-afe9317936a2" />| |
+| 6 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/36bf9fa8-280c-4471-b29e-3a87664803a9" />| |
+| 7 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/983b4f32-054a-4455-939e-2383f67e86f4" />| |
+| 8 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/04a6b725-2ef7-49c5-9506-024596c4cc5e" />| |
+
 
 ---
 
