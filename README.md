@@ -33,6 +33,15 @@ Desarrollar un videojuego para reforzar los temas de matemáticas que más falen
 | 7 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/983b4f32-054a-4455-939e-2383f67e86f4" />| |
 | 8 |<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/04a6b725-2ef7-49c5-9506-024596c4cc5e" />| |
 
+---
+## Prueba Prototipo
+
+<img width="405" height="302" alt="image" src="https://github.com/user-attachments/assets/2193a600-999e-415c-8fb2-47e63eb19303" />
+<img width="243" height="325" alt="image" src="https://github.com/user-attachments/assets/ae7376be-5cd6-4b31-b342-c89b15f8ae31" />
+
+**Comentarios:**
+
+- Un estudiante de grado sexto del IBTI probó nuestro juego y estuvo casi 2 horas entretenido tratando de pasarlo, nos comentó las falencias que teniamos como que estaba muy complicado y las explicaciones debian ser mas claras pero el aprobó Puertas Matematicas como un buen juego para el aprendizaje de los niños de grado sexto en el area de Matematicas.
 
 ---
 
